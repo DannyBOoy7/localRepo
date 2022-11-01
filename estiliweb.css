@@ -1,0 +1,16 @@
+.loco{
+    text-align: center; 
+    background-color: #0d9488;
+}
+.lora{
+    color: #9d174d;
+}
+P.pregunta {
+    font-weight: bold; font-style: italic  ;
+    margin-left: 1cm ;
+    background-color:#fef08a;
+}
+* {
+    color: #262626
+}
+ 
